@@ -17,7 +17,6 @@ This case study is divided into two parts. The first part focuses on estimating 
 
 ![image](https://github.com/user-attachments/assets/6a2fe624-6ab8-41dd-9b22-96317beff04e)
 
-Visualization:
 ![image](https://github.com/user-attachments/assets/aae716cf-cfaf-4277-b901-018725cf2762)
 
 
